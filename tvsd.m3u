@@ -1,232 +1,229 @@
 #EXTM3U
 #EXTINF:0,1-2-3.tv
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,103,1101,1102,1104
+rtsp://192.168.50.254:554/?avm=1&freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,103,1101,1102,1104
 #EXTINF:0,BBC World News (eng)
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,115,401,402
+rtsp://192.168.50.254:554/?avm=1&freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,115,401,402
 #EXTINF:0,TV 5 Monde (fre)
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,106,451,452,454
+rtsp://192.168.50.254:554/?avm=1&freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,106,451,452,454
 #EXTINF:0,NITRO
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,105,981,980,982,984,986,987,988
+rtsp://192.168.50.254:554/?avm=1&freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,105,981,980,982,984,986,987,988
 #EXTINF:0,TOGGO plus
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,102,591,592
+rtsp://192.168.50.254:554/?avm=1&freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,102,591,592
 #EXTINF:0,CNN (eng)
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,110,2251,2252
+rtsp://192.168.50.254:554/?avm=1&freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,110,2251,2252
 #EXTINF:0,ServusTV
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,107,2371,2372,2374
+rtsp://192.168.50.254:554/?avm=1&freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,107,2371,2372,2374
 #EXTINF:0,TLC
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,104,881,882,883,884,886
+rtsp://192.168.50.254:554/?avm=1&freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,104,881,882,883,884,886
 #EXTINF:0,ZDF
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,100,110,120,121,122,125,130,131,950
+rtsp://192.168.50.254:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,100,110,120,121,122,125,130,131,950
 #EXTINF:0,3sat
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,200,210,220,221,222,225,230,231,250
+rtsp://192.168.50.254:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,200,210,220,221,222,225,230,231,250
 #EXTINF:0,KiKA
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,300,310,320,321,325,330,331,350
+rtsp://192.168.50.254:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,300,310,320,321,325,330,331,350
 #EXTINF:0,ZDFinfo
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,600,610,620,621,622,625,630,631,950
+rtsp://192.168.50.254:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,600,610,620,621,622,625,630,631,950
 #EXTINF:0,zdf_neo
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,650,660,670,671,672,675,680,681,950
+rtsp://192.168.50.254:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,650,660,670,671,672,675,680,681,950
 #EXTINF:0,rbb Berlin
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,600,601,35,602,603,604,670,2176
+rtsp://192.168.50.254:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,600,601,35,602,603,604,670,2176
 #EXTINF:0,NDR FS MV
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,2400,2401,2171,2402,2403,2404,2670
+rtsp://192.168.50.254:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,2400,2401,2171,2402,2403,2404,2670
 #EXTINF:0,MDR Thüringen
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3000,3001,34,2870,3002,3003,3004,3005
+rtsp://192.168.50.254:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3000,3001,34,2870,3002,3003,3004,3005
 #EXTINF:0,Das Erste
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,100,101,102,103,104,105,106,1176,2070,2171
+rtsp://192.168.50.254:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,100,101,102,103,104,105,106,1176,2070,2171
 #EXTINF:0,BR Fernsehen Süd
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,200,201,202,203,204,205,206,1076,2171,2178
+rtsp://192.168.50.254:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,200,201,202,203,204,205,206,1076,2171,2178
 #EXTINF:0,hr-fernsehen
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,300,301,302,303,304,2171,2270,2276
+rtsp://192.168.50.254:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,300,301,302,303,304,2171,2270,2276
 #EXTINF:0,WDR Köln
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,600,601,602,603,604,605,2171,2370,2376
+rtsp://192.168.50.254:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,600,601,602,603,604,605,2171,2370,2376
 #EXTINF:0,SWR Fernsehen RP
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,800,801,802,803,804,806,2171,2470,2476
+rtsp://192.168.50.254:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,800,801,802,803,804,806,2171,2470,2476
 #EXTINF:0,ARD-alpha
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,1400,1401,1402,1403,1404,1405,1406,2171,2178
+rtsp://192.168.50.254:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,1400,1401,1402,1403,1404,1405,1406,2171,2178
 #EXTINF:0,tagesschau24
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,100,101,102,104,170,2171
+rtsp://192.168.50.254:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,100,101,102,104,170,2171
 #EXTINF:0,ONE
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,200,201,202,203,204,206,270,2171
+rtsp://192.168.50.254:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,200,201,202,203,204,206,270,2171
 #EXTINF:0,arte
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,400,401,402,403,404,470
+rtsp://192.168.50.254:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,400,401,402,403,404,470
 #EXTINF:0,PHOENIX
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,500,501,502,503,504,570,2171
+rtsp://192.168.50.254:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,500,501,502,503,504,570,2171
 #EXTINF:0,SR Fernsehen
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,300,1301,1302,1303,1304,2171,2970
+rtsp://192.168.50.254:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,300,1301,1302,1303,1304,2171,2970
 #EXTINF:0,Sky Sport News
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=362&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,100,255,256
+rtsp://192.168.50.254:554/?avm=1&freq=362&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,100,255,256
 #EXTINF:0,Sky Select
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=378&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,103,2815,2816
+rtsp://192.168.50.254:554/?avm=1&freq=378&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,103,2815,2816
 #EXTINF:0,sixx
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,104,1181,1182,1184,1186
+rtsp://192.168.50.254:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,104,1181,1182,1184,1186
 #EXTINF:0,TELE 5
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,115,411,412,414
+rtsp://192.168.50.254:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,115,411,412,414
 #EXTINF:0,Eurosport 1
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,113,2921,2922,2924,2926
+rtsp://192.168.50.254:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,113,2921,2922,2924,2926
 #EXTINF:0,ProSieben
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,101,2201,2202,2203,2204,2206
+rtsp://192.168.50.254:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,101,2201,2202,2203,2204,2206
 #EXTINF:0,kabel eins
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,109,2301,2302,2304,2306
+rtsp://192.168.50.254:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,109,2301,2302,2304,2306
 #EXTINF:0,WELT
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,114,2801,2802,2804
+rtsp://192.168.50.254:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,114,2801,2802,2804
 #EXTINF:0,SUPER RTL
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,111,1501,1500,1502,1504,1506,1507,1508
+rtsp://192.168.50.254:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,111,1501,1500,1502,1504,1506,1507,1508
 #EXTINF:0,RTL II
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,112,1601,1600,1602,1604,1606,1607,1608
+rtsp://192.168.50.254:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,112,1601,1600,1602,1604,1606,1607,1608
 #EXTINF:0,VOX
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,113,1701,1700,1702,1704,1706,1707,1708
+rtsp://192.168.50.254:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,113,1701,1700,1702,1704,1706,1707,1708
 #EXTINF:0,n-tv
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,114,1901,1902,1903,1904,1906,1907,1908
+rtsp://192.168.50.254:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,114,1901,1902,1903,1904,1906,1907,1908
 #EXTINF:0,SPORT1
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,116,2501,2502,2504,2506
+rtsp://192.168.50.254:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,116,2501,2502,2504,2506
 #EXTINF:0,Bibel TV
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,106,731,732,734,736
+rtsp://192.168.50.254:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,106,731,732,734,736
 #EXTINF:0,Al Jazeera Int (eng)
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,101,2261,2262
+rtsp://192.168.50.254:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,101,2261,2262
 #EXTINF:0,sonnenklar.TV
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,105,2271,2272,2273,2274
+rtsp://192.168.50.254:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,105,2271,2272,2273,2274
 #EXTINF:0,Disney Channel
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,103,1011,1012,1013,1014
-#EXTINF:0,.
-#EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,107,2931,2932
+rtsp://192.168.50.254:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,103,1011,1012,1013,1014
 #EXTINF:0,RTLplus
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,108,2411,2412,2414,2416,2417,2418
+rtsp://192.168.50.254:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,108,2411,2412,2414,2416,2417,2418
 #EXTINF:0,MTV
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,102,421,422,426
+rtsp://192.168.50.254:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,102,421,422,426
 #EXTINF:0,Nick
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=466&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,104,441,442,443,444,446
-#EXTINF:0,COMEDY CENTRAL/VIVA
+rtsp://192.168.50.254:554/?avm=1&freq=466&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,104,441,442,443,444,446
+#EXTINF:0,Comedy Central
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=466&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,116,2941,2942,2944,2946
+rtsp://192.168.50.254:554/?avm=1&freq=466&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,116,2941,2942,2944,2946
 #EXTINF:0,QVC
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=466&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,101,2281,2282,2284,2286,7011
+rtsp://192.168.50.254:554/?avm=1&freq=466&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,101,2281,2282,2284,2286,7011
 #EXTINF:0,DMAX
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=466&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,115,2291,2292,2294,2296
+rtsp://192.168.50.254:554/?avm=1&freq=466&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,115,2291,2292,2294,2296
 #EXTINF:0,HSE24
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=466&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,103,2311,2312,2314,2316
+rtsp://192.168.50.254:554/?avm=1&freq=466&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,103,2311,2312,2314,2316
 #EXTINF:0,eoTV
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=466&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,112,811,812,816
+rtsp://192.168.50.254:554/?avm=1&freq=466&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,112,811,812,816
 #EXTINF:0,SparhandyTV
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=538&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,116,1451,1452
+rtsp://192.168.50.254:554/?avm=1&freq=538&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,116,1451,1452
 #EXTINF:0,ANIXE SD
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=538&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,109,1001,1002,1006
+rtsp://192.168.50.254:554/?avm=1&freq=538&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,109,1001,1002,1006
 #EXTINF:0,DELUXE MUSIC
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=538&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,118,2351,2352
+rtsp://192.168.50.254:554/?avm=1&freq=538&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,118,2351,2352
 #EXTINF:0,SAT.1 Gold
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=538&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,112,2431,2432,2434,2436
+rtsp://192.168.50.254:554/?avm=1&freq=538&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,112,2431,2432,2434,2436
 #EXTINF:0,Astro TV
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=538&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,101,2241,2242
+rtsp://192.168.50.254:554/?avm=1&freq=538&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,101,2241,2242
 #EXTINF:0,QVC2
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=538&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,111,961,962,964,966
+rtsp://192.168.50.254:554/?avm=1&freq=538&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,111,961,962,964,966
 #EXTINF:0,Melodie TV
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=538&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,104,2741,2742
+rtsp://192.168.50.254:554/?avm=1&freq=538&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,104,2741,2742
 #EXTINF:0,Welt der Wunder TV
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=610&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,102,1421,1422
+rtsp://192.168.50.254:554/?avm=1&freq=610&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,102,1421,1422
 #EXTINF:0,N24 Doku
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=610&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,106,1471,1472,1474
+rtsp://192.168.50.254:554/?avm=1&freq=610&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,106,1471,1472,1474
 #EXTINF:0,kabel eins Doku
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=610&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,108,1511,1512,1514,1516
+rtsp://192.168.50.254:554/?avm=1&freq=610&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,108,1511,1512,1514,1516
 #EXTINF:0,TVA Ostbayern
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,151,4241,4242,4249
+rtsp://192.168.50.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,151,4241,4242,4249
 #EXTINF:0,RTL
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,101,6040,1401,1402,1403,1404,1406,1407,1408,6041
+rtsp://192.168.50.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,101,6040,1401,1402,1403,1404,1406,1407,1408,6041
 #EXTINF:0,SAT.1
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,102,2701,2702,2703,2704,2706
+rtsp://192.168.50.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,102,2701,2702,2703,2704,2706
 #EXTINF:0,HSE24 EXTRA
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,102,6411,6412,6414,6416
+rtsp://192.168.50.254:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,102,6411,6412,6414,6416
 #EXTINF:0,ProSieben MAXX
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,104,6431,6432,6433,6434,6436
+rtsp://192.168.50.254:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,104,6431,6432,6433,6434,6436
 #EXTINF:0,Deutsches Musik Fernsehen
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,109,6501,6502,6504,6506
+rtsp://192.168.50.254:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,109,6501,6502,6504,6506
 #EXTINF:0,SONLife (eng)
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,108,6471,6472
+rtsp://192.168.50.254:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,108,6471,6472
 #EXTINF:0,Zee.One
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,103,6421,6422,6426
+rtsp://192.168.50.254:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,103,6421,6422,6426
 #EXTINF:0,health tv
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,107,1201,1202,1206
+rtsp://192.168.50.254:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,107,1201,1202,1206
 #EXTINF:0,Channel21
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=410&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,114,2391,2392,2394
+rtsp://192.168.50.254:554/?avm=1&freq=410&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,114,2391,2392,2394
 #EXTINF:0,Juwelo TV
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=410&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,113,2361,2362,2366
+rtsp://192.168.50.254:554/?avm=1&freq=410&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,113,2361,2362,2366
 #EXTINF:0,euronews
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=410&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,110,2601,2602
+rtsp://192.168.50.254:554/?avm=1&freq=410&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,110,2601,2602
 #EXTINF:0,ORF 2
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,156,7561,7562,7564
+rtsp://192.168.50.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,156,7561,7562,7564
 #EXTINF:0,Die neue Zeit TV
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,158,7471,7472
+rtsp://192.168.50.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,158,7471,7472
