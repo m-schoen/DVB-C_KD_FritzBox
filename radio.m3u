@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:0,Dlf Kultur
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,700,710
+rtsp://192.168.50.254:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,700,710,750
 #EXTINF:0,Dlf
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,800,810
+rtsp://192.168.50.254:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,800,810,850
 #EXTINF:0,Dlf Nova
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,411,410
+rtsp://192.168.50.254:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,411,410,450
 #EXTINF:0,MDR SACHSEN DD
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.50.254:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3500,3501,2074,2177
@@ -71,13 +71,13 @@ rtsp://192.168.50.254:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&sp
 #EXTINF:0,Inforadio
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.50.254:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3800,3801,2074,2177
-#EXTINF:0,Kulturradio
+#EXTINF:0,rbbKultur
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.50.254:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3810,3811,2074,2177
 #EXTINF:0,Antenne Brandenburg
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.50.254:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3820,3821,2074,2177
-#EXTINF:0,radioBERLIN 88,8
+#EXTINF:0,rbb 88.8
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.50.254:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3830,3831,2074,2177
 #EXTINF:0,radioeins
@@ -145,7 +145,7 @@ rtsp://192.168.50.254:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&sp
 rtsp://192.168.50.254:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,4110,4111,2074,2177
 #EXTINF:0,WDR 3
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,4120,4121,2074,2177
+rtsp://192.168.50.254:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,4120,4121,2074,2177,4122
 #EXTINF:0,WDR 4
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.50.254:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,4130,4131,2074,2177
@@ -158,7 +158,7 @@ rtsp://192.168.50.254:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&sp
 #EXTINF:0,1LIVE diGGi
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.50.254:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,4160,4161,2074,2177
-#EXTINF:0,KIRAKA
+#EXTINF:0,Die Maus
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.50.254:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,4170,4171,2074,2177
 #EXTINF:0,WDR Event
@@ -206,9 +206,6 @@ rtsp://192.168.50.254:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&sp
 #EXTINF:0,sunshine live
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.50.254:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,311,6382
-#EXTINF:0,Klassik Radio
-#EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,316,6302
 #EXTINF:0,RTL Radio
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.50.254:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,315,6312
@@ -218,9 +215,6 @@ rtsp://192.168.50.254:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&sp
 #EXTINF:0,JAM FM
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.50.254:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,312,6332
-#EXTINF:0,radioB2 SCHLAGER
-#EXTVLCOPT:network-caching=1000
-rtsp://192.168.50.254:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,201,6462
 #EXTINF:0,MEGA Radio
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.50.254:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,202,5292
@@ -236,24 +230,45 @@ rtsp://192.168.50.254:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&sp
 #EXTINF:0,WDR 2 Ostwestfalen-Lippe
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.50.254:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,207,3332
+#EXTINF:0,Dokumente und Debatten
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.50.254:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,201,6462
+#EXTINF:0,Schlager Radio B2
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.50.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,4070,4071
 #EXTINF:0,Antenne Bayern 
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.50.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,4136,4137
+#EXTINF:0,Arabella Kult
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.50.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,4266,4267
 #EXTINF:0,Radio Charivari Kelheim
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.50.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,4356,4357
 #EXTINF:0,Radio Charivari Regensburg
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.50.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,4396,4397
+#EXTINF:0,Radio BOB (national)
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.50.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,4546,4547
 #EXTINF:0,Radio Galaxy
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.50.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,4726,4727
 #EXTINF:0,Gong fm
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.50.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,4886,4887
+#EXTINF:0,Radio Teddy (BY)
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.50.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,7426,7427
+#EXTINF:0,Radio AWN
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.50.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,7496,7497
 #EXTINF:0,Radio Ramasuri
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.50.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,7526,7527
+#EXTINF:0,Klassik Radio
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.50.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,7596,7597
 #EXTINF:0,Rock Antenne
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.50.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,7966,7967
@@ -269,7 +284,7 @@ rtsp://192.168.50.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&spe
 #EXTINF:0,Ö2 - Radio Salzburg
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.50.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,3140,3141
-#EXTINF:0,Österreich 1 
+#EXTINF:0,Österreich 1
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.50.254:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,3150,3151
 #EXTINF:0,Österreich 3
